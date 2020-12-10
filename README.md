@@ -1,2 +1,2 @@
-# SoftUni-Fundamentals-C-
+# SoftUni-Fundamentals-Csharp-
 September 2020 
