@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\bin\Debug\netcoreapp3.1\6.ListManipulationBasics.exe
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\bin\Debug\netcoreapp3.1\6.ListManipulationBasics.deps.json
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\bin\Debug\netcoreapp3.1\6.ListManipulationBasics.runtimeconfig.json
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\bin\Debug\netcoreapp3.1\6.ListManipulationBasics.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\bin\Debug\netcoreapp3.1\6.ListManipulationBasics.dll
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\bin\Debug\netcoreapp3.1\6.ListManipulationBasics.pdb
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\obj\Debug\netcoreapp3.1\6.ListManipulationBasics.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\obj\Debug\netcoreapp3.1\6.ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\obj\Debug\netcoreapp3.1\6.ListManipulationBasics.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\obj\Debug\netcoreapp3.1\6.ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\obj\Debug\netcoreapp3.1\6.ListManipulationBasics.dll
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\obj\Debug\netcoreapp3.1\6.ListManipulationBasics.pdb
+C:\Users\HOME\source\repos\Lists-Lab\6.ListManipulationBasics\obj\Debug\netcoreapp3.1\6.ListManipulationBasics.genruntimeconfig.cache

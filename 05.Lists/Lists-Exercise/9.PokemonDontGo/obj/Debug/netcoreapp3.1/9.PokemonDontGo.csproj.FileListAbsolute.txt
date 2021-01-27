@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\bin\Debug\netcoreapp3.1\9.PokemonDontGo.exe
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\bin\Debug\netcoreapp3.1\9.PokemonDontGo.deps.json
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\bin\Debug\netcoreapp3.1\9.PokemonDontGo.runtimeconfig.json
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\bin\Debug\netcoreapp3.1\9.PokemonDontGo.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\bin\Debug\netcoreapp3.1\9.PokemonDontGo.dll
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\bin\Debug\netcoreapp3.1\9.PokemonDontGo.pdb
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\obj\Debug\netcoreapp3.1\9.PokemonDontGo.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\obj\Debug\netcoreapp3.1\9.PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\obj\Debug\netcoreapp3.1\9.PokemonDontGo.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\obj\Debug\netcoreapp3.1\9.PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\obj\Debug\netcoreapp3.1\9.PokemonDontGo.dll
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\obj\Debug\netcoreapp3.1\9.PokemonDontGo.pdb
+C:\Users\HOME\source\repos\Lists-Exercise\9.PokemonDontGo\obj\Debug\netcoreapp3.1\9.PokemonDontGo.genruntimeconfig.cache

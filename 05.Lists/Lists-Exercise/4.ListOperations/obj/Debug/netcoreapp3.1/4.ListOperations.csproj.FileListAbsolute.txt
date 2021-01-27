@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\bin\Debug\netcoreapp3.1\4.ListOperations.exe
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\bin\Debug\netcoreapp3.1\4.ListOperations.deps.json
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\bin\Debug\netcoreapp3.1\4.ListOperations.runtimeconfig.json
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\bin\Debug\netcoreapp3.1\4.ListOperations.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\bin\Debug\netcoreapp3.1\4.ListOperations.dll
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\bin\Debug\netcoreapp3.1\4.ListOperations.pdb
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\obj\Debug\netcoreapp3.1\4.ListOperations.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\obj\Debug\netcoreapp3.1\4.ListOperations.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\obj\Debug\netcoreapp3.1\4.ListOperations.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\obj\Debug\netcoreapp3.1\4.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\obj\Debug\netcoreapp3.1\4.ListOperations.dll
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\obj\Debug\netcoreapp3.1\4.ListOperations.pdb
+C:\Users\HOME\source\repos\Lists-Exercise\4.ListOperations\obj\Debug\netcoreapp3.1\4.ListOperations.genruntimeconfig.cache

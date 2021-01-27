@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\bin\Debug\netcoreapp3.1\5.BombNumbers.exe
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\bin\Debug\netcoreapp3.1\5.BombNumbers.deps.json
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\bin\Debug\netcoreapp3.1\5.BombNumbers.runtimeconfig.json
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\bin\Debug\netcoreapp3.1\5.BombNumbers.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\bin\Debug\netcoreapp3.1\5.BombNumbers.dll
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\bin\Debug\netcoreapp3.1\5.BombNumbers.pdb
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\obj\Debug\netcoreapp3.1\5.BombNumbers.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\obj\Debug\netcoreapp3.1\5.BombNumbers.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\obj\Debug\netcoreapp3.1\5.BombNumbers.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\obj\Debug\netcoreapp3.1\5.BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\obj\Debug\netcoreapp3.1\5.BombNumbers.dll
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\obj\Debug\netcoreapp3.1\5.BombNumbers.pdb
+C:\Users\HOME\source\repos\Lists-Exercise\5.BombNumbers\obj\Debug\netcoreapp3.1\5.BombNumbers.genruntimeconfig.cache

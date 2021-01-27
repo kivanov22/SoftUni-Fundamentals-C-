@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\bin\Debug\netcoreapp3.1\3.HouseParty.exe
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\bin\Debug\netcoreapp3.1\3.HouseParty.deps.json
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\bin\Debug\netcoreapp3.1\3.HouseParty.runtimeconfig.json
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\bin\Debug\netcoreapp3.1\3.HouseParty.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\bin\Debug\netcoreapp3.1\3.HouseParty.dll
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\bin\Debug\netcoreapp3.1\3.HouseParty.pdb
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\obj\Debug\netcoreapp3.1\3.HouseParty.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\obj\Debug\netcoreapp3.1\3.HouseParty.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\obj\Debug\netcoreapp3.1\3.HouseParty.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\obj\Debug\netcoreapp3.1\3.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\obj\Debug\netcoreapp3.1\3.HouseParty.dll
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\obj\Debug\netcoreapp3.1\3.HouseParty.pdb
+C:\Users\HOME\source\repos\Lists-Exercise\3.HouseParty\obj\Debug\netcoreapp3.1\3.HouseParty.genruntimeconfig.cache

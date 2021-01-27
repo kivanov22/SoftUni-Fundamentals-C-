@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\bin\Debug\netcoreapp3.1\2.GaussTrick.exe
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\bin\Debug\netcoreapp3.1\2.GaussTrick.deps.json
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\bin\Debug\netcoreapp3.1\2.GaussTrick.runtimeconfig.json
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\bin\Debug\netcoreapp3.1\2.GaussTrick.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\bin\Debug\netcoreapp3.1\2.GaussTrick.dll
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\bin\Debug\netcoreapp3.1\2.GaussTrick.pdb
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\obj\Debug\netcoreapp3.1\2.GaussTrick.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\obj\Debug\netcoreapp3.1\2.GaussTrick.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\obj\Debug\netcoreapp3.1\2.GaussTrick.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\obj\Debug\netcoreapp3.1\2.GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\obj\Debug\netcoreapp3.1\2.GaussTrick.dll
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\obj\Debug\netcoreapp3.1\2.GaussTrick.pdb
+C:\Users\HOME\source\repos\Lists-Lab\2.GaussTrick\obj\Debug\netcoreapp3.1\2.GaussTrick.genruntimeconfig.cache
