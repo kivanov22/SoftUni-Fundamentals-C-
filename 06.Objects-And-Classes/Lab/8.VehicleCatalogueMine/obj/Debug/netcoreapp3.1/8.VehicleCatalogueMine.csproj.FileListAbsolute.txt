@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\bin\Debug\netcoreapp3.1\8.VehicleCatalogueMine.exe
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\bin\Debug\netcoreapp3.1\8.VehicleCatalogueMine.deps.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\bin\Debug\netcoreapp3.1\8.VehicleCatalogueMine.runtimeconfig.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\bin\Debug\netcoreapp3.1\8.VehicleCatalogueMine.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\bin\Debug\netcoreapp3.1\8.VehicleCatalogueMine.dll
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\bin\Debug\netcoreapp3.1\8.VehicleCatalogueMine.pdb
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\obj\Debug\netcoreapp3.1\8.VehicleCatalogueMine.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\obj\Debug\netcoreapp3.1\8.VehicleCatalogueMine.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\obj\Debug\netcoreapp3.1\8.VehicleCatalogueMine.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\obj\Debug\netcoreapp3.1\8.VehicleCatalogueMine.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\obj\Debug\netcoreapp3.1\8.VehicleCatalogueMine.dll
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\obj\Debug\netcoreapp3.1\8.VehicleCatalogueMine.pdb
+C:\Users\HOME\source\repos\ObjectAndClassesLab\8.VehicleCatalogueMine\obj\Debug\netcoreapp3.1\8.VehicleCatalogueMine.genruntimeconfig.cache

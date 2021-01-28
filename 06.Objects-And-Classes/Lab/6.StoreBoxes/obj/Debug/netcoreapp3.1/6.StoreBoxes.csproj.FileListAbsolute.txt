@@ -1,0 +1,12 @@
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\bin\Debug\netcoreapp3.1\6.StoreBoxes.exe
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\bin\Debug\netcoreapp3.1\6.StoreBoxes.deps.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\bin\Debug\netcoreapp3.1\6.StoreBoxes.runtimeconfig.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\bin\Debug\netcoreapp3.1\6.StoreBoxes.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\bin\Debug\netcoreapp3.1\6.StoreBoxes.dll
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\bin\Debug\netcoreapp3.1\6.StoreBoxes.pdb
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\obj\Debug\netcoreapp3.1\6.StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\obj\Debug\netcoreapp3.1\6.StoreBoxes.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\obj\Debug\netcoreapp3.1\6.StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\obj\Debug\netcoreapp3.1\6.StoreBoxes.dll
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\obj\Debug\netcoreapp3.1\6.StoreBoxes.pdb
+C:\Users\HOME\source\repos\ObjectAndClassesLab\6.StoreBoxes\obj\Debug\netcoreapp3.1\6.StoreBoxes.genruntimeconfig.cache

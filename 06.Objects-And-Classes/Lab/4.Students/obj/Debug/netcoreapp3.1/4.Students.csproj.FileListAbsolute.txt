@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\bin\Debug\netcoreapp3.1\4.Students.exe
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\bin\Debug\netcoreapp3.1\4.Students.deps.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\bin\Debug\netcoreapp3.1\4.Students.runtimeconfig.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\bin\Debug\netcoreapp3.1\4.Students.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\bin\Debug\netcoreapp3.1\4.Students.dll
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\bin\Debug\netcoreapp3.1\4.Students.pdb
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\obj\Debug\netcoreapp3.1\4.Students.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\obj\Debug\netcoreapp3.1\4.Students.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\obj\Debug\netcoreapp3.1\4.Students.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\obj\Debug\netcoreapp3.1\4.Students.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\obj\Debug\netcoreapp3.1\4.Students.dll
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\obj\Debug\netcoreapp3.1\4.Students.pdb
+C:\Users\HOME\source\repos\ObjectAndClassesLab\4.Students\obj\Debug\netcoreapp3.1\4.Students.genruntimeconfig.cache

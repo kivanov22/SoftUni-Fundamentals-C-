@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\bin\Debug\netcoreapp3.1\1.RadomizeWords.exe
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\bin\Debug\netcoreapp3.1\1.RadomizeWords.deps.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\bin\Debug\netcoreapp3.1\1.RadomizeWords.runtimeconfig.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\bin\Debug\netcoreapp3.1\1.RadomizeWords.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\bin\Debug\netcoreapp3.1\1.RadomizeWords.dll
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\bin\Debug\netcoreapp3.1\1.RadomizeWords.pdb
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\obj\Debug\netcoreapp3.1\1.RadomizeWords.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\obj\Debug\netcoreapp3.1\1.RadomizeWords.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\obj\Debug\netcoreapp3.1\1.RadomizeWords.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\obj\Debug\netcoreapp3.1\1.RadomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\obj\Debug\netcoreapp3.1\1.RadomizeWords.dll
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\obj\Debug\netcoreapp3.1\1.RadomizeWords.pdb
+C:\Users\HOME\source\repos\ObjectAndClassesLab\1.RadomizeWords\obj\Debug\netcoreapp3.1\1.RadomizeWords.genruntimeconfig.cache
