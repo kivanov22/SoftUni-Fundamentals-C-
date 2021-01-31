@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\bin\Debug\netcoreapp3.1\5.TeamWordProjects.exe
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\bin\Debug\netcoreapp3.1\5.TeamWordProjects.deps.json
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\bin\Debug\netcoreapp3.1\5.TeamWordProjects.runtimeconfig.json
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\bin\Debug\netcoreapp3.1\5.TeamWordProjects.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\bin\Debug\netcoreapp3.1\5.TeamWordProjects.dll
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\bin\Debug\netcoreapp3.1\5.TeamWordProjects.pdb
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\obj\Debug\netcoreapp3.1\5.TeamWordProjects.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\obj\Debug\netcoreapp3.1\5.TeamWordProjects.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\obj\Debug\netcoreapp3.1\5.TeamWordProjects.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\obj\Debug\netcoreapp3.1\5.TeamWordProjects.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\obj\Debug\netcoreapp3.1\5.TeamWordProjects.dll
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\obj\Debug\netcoreapp3.1\5.TeamWordProjects.pdb
+C:\Users\HOME\source\repos\ClasesAndObjects-Exercise\5.TeamWordProjects\obj\Debug\netcoreapp3.1\5.TeamWordProjects.genruntimeconfig.cache
