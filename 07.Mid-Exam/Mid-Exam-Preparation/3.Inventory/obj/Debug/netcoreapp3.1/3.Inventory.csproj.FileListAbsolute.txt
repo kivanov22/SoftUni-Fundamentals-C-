@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\bin\Debug\netcoreapp3.1\3.Inventory.exe
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\bin\Debug\netcoreapp3.1\3.Inventory.deps.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\bin\Debug\netcoreapp3.1\3.Inventory.runtimeconfig.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\bin\Debug\netcoreapp3.1\3.Inventory.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\bin\Debug\netcoreapp3.1\3.Inventory.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\bin\Debug\netcoreapp3.1\3.Inventory.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\obj\Debug\netcoreapp3.1\3.Inventory.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\obj\Debug\netcoreapp3.1\3.Inventory.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\obj\Debug\netcoreapp3.1\3.Inventory.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\obj\Debug\netcoreapp3.1\3.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\obj\Debug\netcoreapp3.1\3.Inventory.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\obj\Debug\netcoreapp3.1\3.Inventory.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.Inventory\obj\Debug\netcoreapp3.1\3.Inventory.genruntimeconfig.cache

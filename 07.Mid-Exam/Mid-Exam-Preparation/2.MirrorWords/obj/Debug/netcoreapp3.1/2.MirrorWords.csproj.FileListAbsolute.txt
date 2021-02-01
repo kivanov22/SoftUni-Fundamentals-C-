@@ -1,0 +1,12 @@
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\bin\Debug\netcoreapp3.1\2.MirrorWords.exe
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\bin\Debug\netcoreapp3.1\2.MirrorWords.deps.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\bin\Debug\netcoreapp3.1\2.MirrorWords.runtimeconfig.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\bin\Debug\netcoreapp3.1\2.MirrorWords.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\bin\Debug\netcoreapp3.1\2.MirrorWords.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\bin\Debug\netcoreapp3.1\2.MirrorWords.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\obj\Debug\netcoreapp3.1\2.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\obj\Debug\netcoreapp3.1\2.MirrorWords.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\obj\Debug\netcoreapp3.1\2.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\obj\Debug\netcoreapp3.1\2.MirrorWords.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\obj\Debug\netcoreapp3.1\2.MirrorWords.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.MirrorWords\obj\Debug\netcoreapp3.1\2.MirrorWords.genruntimeconfig.cache

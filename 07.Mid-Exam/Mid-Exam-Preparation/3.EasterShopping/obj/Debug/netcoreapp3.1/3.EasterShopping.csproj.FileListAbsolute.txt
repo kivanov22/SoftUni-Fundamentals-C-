@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\bin\Debug\netcoreapp3.1\3.EasterShopping.exe
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\bin\Debug\netcoreapp3.1\3.EasterShopping.deps.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\bin\Debug\netcoreapp3.1\3.EasterShopping.runtimeconfig.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\bin\Debug\netcoreapp3.1\3.EasterShopping.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\bin\Debug\netcoreapp3.1\3.EasterShopping.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\bin\Debug\netcoreapp3.1\3.EasterShopping.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\obj\Debug\netcoreapp3.1\3.EasterShopping.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\obj\Debug\netcoreapp3.1\3.EasterShopping.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\obj\Debug\netcoreapp3.1\3.EasterShopping.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\obj\Debug\netcoreapp3.1\3.EasterShopping.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\obj\Debug\netcoreapp3.1\3.EasterShopping.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\obj\Debug\netcoreapp3.1\3.EasterShopping.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\3.EasterShopping\obj\Debug\netcoreapp3.1\3.EasterShopping.genruntimeconfig.cache

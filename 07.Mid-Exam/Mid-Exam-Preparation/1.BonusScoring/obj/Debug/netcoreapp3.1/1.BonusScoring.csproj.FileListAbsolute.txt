@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\bin\Debug\netcoreapp3.1\1.BonusScoring.exe
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\bin\Debug\netcoreapp3.1\1.BonusScoring.deps.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\bin\Debug\netcoreapp3.1\1.BonusScoring.runtimeconfig.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\bin\Debug\netcoreapp3.1\1.BonusScoring.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\bin\Debug\netcoreapp3.1\1.BonusScoring.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\bin\Debug\netcoreapp3.1\1.BonusScoring.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\obj\Debug\netcoreapp3.1\1.BonusScoring.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\obj\Debug\netcoreapp3.1\1.BonusScoring.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\obj\Debug\netcoreapp3.1\1.BonusScoring.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\obj\Debug\netcoreapp3.1\1.BonusScoring.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\obj\Debug\netcoreapp3.1\1.BonusScoring.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\obj\Debug\netcoreapp3.1\1.BonusScoring.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\1.BonusScoring\obj\Debug\netcoreapp3.1\1.BonusScoring.genruntimeconfig.cache
