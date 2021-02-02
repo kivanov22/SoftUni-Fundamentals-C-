@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\bin\Debug\netcoreapp3.1\3.WordsSynonyms.exe
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\bin\Debug\netcoreapp3.1\3.WordsSynonyms.deps.json
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\bin\Debug\netcoreapp3.1\3.WordsSynonyms.runtimeconfig.json
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\bin\Debug\netcoreapp3.1\3.WordsSynonyms.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\bin\Debug\netcoreapp3.1\3.WordsSynonyms.dll
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\bin\Debug\netcoreapp3.1\3.WordsSynonyms.pdb
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\obj\Debug\netcoreapp3.1\3.WordsSynonyms.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\obj\Debug\netcoreapp3.1\3.WordsSynonyms.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\obj\Debug\netcoreapp3.1\3.WordsSynonyms.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\obj\Debug\netcoreapp3.1\3.WordsSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\obj\Debug\netcoreapp3.1\3.WordsSynonyms.dll
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\obj\Debug\netcoreapp3.1\3.WordsSynonyms.pdb
+C:\Users\HOME\source\repos\Associative Arrays-Lab\3.WordsSynonyms\obj\Debug\netcoreapp3.1\3.WordsSynonyms.genruntimeconfig.cache
