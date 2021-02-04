@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.exe
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.deps.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.runtimeconfig.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.dll
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\bin\Debug\netcoreapp3.1\1.ReverseStrings.pdb
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.dll
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.pdb
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\1.ReverseStrings\obj\Debug\netcoreapp3.1\1.ReverseStrings.genruntimeconfig.cache

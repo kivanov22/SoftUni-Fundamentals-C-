@@ -1,0 +1,12 @@
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\bin\Debug\netcoreapp3.1\5.Digits-Letters-Other.exe
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\bin\Debug\netcoreapp3.1\5.Digits-Letters-Other.deps.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\bin\Debug\netcoreapp3.1\5.Digits-Letters-Other.runtimeconfig.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\bin\Debug\netcoreapp3.1\5.Digits-Letters-Other.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\bin\Debug\netcoreapp3.1\5.Digits-Letters-Other.dll
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\bin\Debug\netcoreapp3.1\5.Digits-Letters-Other.pdb
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\obj\Debug\netcoreapp3.1\5.Digits-Letters-Other.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\obj\Debug\netcoreapp3.1\5.Digits-Letters-Other.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\obj\Debug\netcoreapp3.1\5.Digits-Letters-Other.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\obj\Debug\netcoreapp3.1\5.Digits-Letters-Other.dll
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\obj\Debug\netcoreapp3.1\5.Digits-Letters-Other.pdb
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\5.Digits-Letters-Other\obj\Debug\netcoreapp3.1\5.Digits-Letters-Other.genruntimeconfig.cache

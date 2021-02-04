@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.exe
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.deps.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.runtimeconfig.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.dll
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\bin\Debug\netcoreapp3.1\4.TextFilter.pdb
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.dll
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.pdb
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\4.TextFilter\obj\Debug\netcoreapp3.1\4.TextFilter.genruntimeconfig.cache

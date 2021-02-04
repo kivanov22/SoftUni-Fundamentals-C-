@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\bin\Debug\netcoreapp3.1\2.RepeatStrings.exe
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\bin\Debug\netcoreapp3.1\2.RepeatStrings.deps.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\bin\Debug\netcoreapp3.1\2.RepeatStrings.runtimeconfig.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\bin\Debug\netcoreapp3.1\2.RepeatStrings.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\bin\Debug\netcoreapp3.1\2.RepeatStrings.dll
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\bin\Debug\netcoreapp3.1\2.RepeatStrings.pdb
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\obj\Debug\netcoreapp3.1\2.RepeatStrings.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\obj\Debug\netcoreapp3.1\2.RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\obj\Debug\netcoreapp3.1\2.RepeatStrings.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\obj\Debug\netcoreapp3.1\2.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\obj\Debug\netcoreapp3.1\2.RepeatStrings.dll
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\obj\Debug\netcoreapp3.1\2.RepeatStrings.pdb
+C:\Users\KRISI\source\repos\Lab-Strings-And-Text-Processing\2.RepeatStrings\obj\Debug\netcoreapp3.1\2.RepeatStrings.genruntimeconfig.cache
