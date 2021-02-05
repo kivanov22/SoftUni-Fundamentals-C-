@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\bin\Debug\netcoreapp3.1\1.CountCharsInString.exe
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\bin\Debug\netcoreapp3.1\1.CountCharsInString.deps.json
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\bin\Debug\netcoreapp3.1\1.CountCharsInString.runtimeconfig.json
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\bin\Debug\netcoreapp3.1\1.CountCharsInString.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\bin\Debug\netcoreapp3.1\1.CountCharsInString.dll
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\bin\Debug\netcoreapp3.1\1.CountCharsInString.pdb
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\obj\Debug\netcoreapp3.1\1.CountCharsInString.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\obj\Debug\netcoreapp3.1\1.CountCharsInString.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\obj\Debug\netcoreapp3.1\1.CountCharsInString.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\obj\Debug\netcoreapp3.1\1.CountCharsInString.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\obj\Debug\netcoreapp3.1\1.CountCharsInString.dll
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\obj\Debug\netcoreapp3.1\1.CountCharsInString.pdb
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\1.CountCharsInString\obj\Debug\netcoreapp3.1\1.CountCharsInString.genruntimeconfig.cache

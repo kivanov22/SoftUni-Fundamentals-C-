@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\bin\Debug\netcoreapp3.1\2.TheLyftUpdated.exe
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\bin\Debug\netcoreapp3.1\2.TheLyftUpdated.deps.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\bin\Debug\netcoreapp3.1\2.TheLyftUpdated.runtimeconfig.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\bin\Debug\netcoreapp3.1\2.TheLyftUpdated.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\bin\Debug\netcoreapp3.1\2.TheLyftUpdated.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\bin\Debug\netcoreapp3.1\2.TheLyftUpdated.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\obj\Debug\netcoreapp3.1\2.TheLyftUpdated.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\obj\Debug\netcoreapp3.1\2.TheLyftUpdated.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\obj\Debug\netcoreapp3.1\2.TheLyftUpdated.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\obj\Debug\netcoreapp3.1\2.TheLyftUpdated.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\obj\Debug\netcoreapp3.1\2.TheLyftUpdated.dll
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\obj\Debug\netcoreapp3.1\2.TheLyftUpdated.pdb
+C:\Users\HOME\source\repos\Mid-Exam-Prep\2.TheLyftUpdated\obj\Debug\netcoreapp3.1\2.TheLyftUpdated.genruntimeconfig.cache

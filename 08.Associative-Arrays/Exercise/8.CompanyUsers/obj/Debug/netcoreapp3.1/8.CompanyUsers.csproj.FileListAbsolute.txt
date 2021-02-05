@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\bin\Debug\netcoreapp3.1\8.CompanyUsers.exe
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\bin\Debug\netcoreapp3.1\8.CompanyUsers.deps.json
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\bin\Debug\netcoreapp3.1\8.CompanyUsers.runtimeconfig.json
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\bin\Debug\netcoreapp3.1\8.CompanyUsers.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\bin\Debug\netcoreapp3.1\8.CompanyUsers.dll
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\bin\Debug\netcoreapp3.1\8.CompanyUsers.pdb
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\obj\Debug\netcoreapp3.1\8.CompanyUsers.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\obj\Debug\netcoreapp3.1\8.CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\obj\Debug\netcoreapp3.1\8.CompanyUsers.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\obj\Debug\netcoreapp3.1\8.CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\obj\Debug\netcoreapp3.1\8.CompanyUsers.dll
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\obj\Debug\netcoreapp3.1\8.CompanyUsers.pdb
+C:\Users\HOME\source\repos\Associative-Arrays-Exercise\8.CompanyUsers\obj\Debug\netcoreapp3.1\8.CompanyUsers.genruntimeconfig.cache
