@@ -1,0 +1,12 @@
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.exe
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.deps.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.runtimeconfig.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\bin\Debug\netcoreapp3.1\5.MultiplyBigNumber.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\5.MultiplyBigNumber\obj\Debug\netcoreapp3.1\5.MultiplyBigNumber.genruntimeconfig.cache

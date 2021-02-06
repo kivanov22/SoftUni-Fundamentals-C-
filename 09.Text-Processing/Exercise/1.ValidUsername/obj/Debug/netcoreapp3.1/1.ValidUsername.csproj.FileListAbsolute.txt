@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\bin\Debug\netcoreapp3.1\1.ValidUsername.exe
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\bin\Debug\netcoreapp3.1\1.ValidUsername.deps.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\bin\Debug\netcoreapp3.1\1.ValidUsername.runtimeconfig.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\bin\Debug\netcoreapp3.1\1.ValidUsername.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\bin\Debug\netcoreapp3.1\1.ValidUsername.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\bin\Debug\netcoreapp3.1\1.ValidUsername.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\obj\Debug\netcoreapp3.1\1.ValidUsername.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\obj\Debug\netcoreapp3.1\1.ValidUsername.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\obj\Debug\netcoreapp3.1\1.ValidUsername.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\obj\Debug\netcoreapp3.1\1.ValidUsername.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\obj\Debug\netcoreapp3.1\1.ValidUsername.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\obj\Debug\netcoreapp3.1\1.ValidUsername.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\1.ValidUsername\obj\Debug\netcoreapp3.1\1.ValidUsername.genruntimeconfig.cache

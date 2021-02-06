@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\bin\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.exe
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\bin\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.deps.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\bin\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.runtimeconfig.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\bin\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\bin\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\bin\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\obj\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\obj\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\obj\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\obj\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\obj\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\obj\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\6.ReplaceRepeatingCharacters\obj\Debug\netcoreapp3.1\6.ReplaceRepeatingCharacters.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\bin\Debug\netcoreapp3.1\4.CaesarSipher.exe
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\bin\Debug\netcoreapp3.1\4.CaesarSipher.deps.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\bin\Debug\netcoreapp3.1\4.CaesarSipher.runtimeconfig.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\bin\Debug\netcoreapp3.1\4.CaesarSipher.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\bin\Debug\netcoreapp3.1\4.CaesarSipher.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\bin\Debug\netcoreapp3.1\4.CaesarSipher.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\obj\Debug\netcoreapp3.1\4.CaesarSipher.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\obj\Debug\netcoreapp3.1\4.CaesarSipher.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\obj\Debug\netcoreapp3.1\4.CaesarSipher.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\obj\Debug\netcoreapp3.1\4.CaesarSipher.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\obj\Debug\netcoreapp3.1\4.CaesarSipher.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\4.CaesarSipher\obj\Debug\netcoreapp3.1\4.CaesarSipher.genruntimeconfig.cache

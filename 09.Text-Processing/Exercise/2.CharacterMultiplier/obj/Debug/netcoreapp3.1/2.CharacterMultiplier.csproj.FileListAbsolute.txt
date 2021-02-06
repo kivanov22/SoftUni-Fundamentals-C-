@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.exe
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.deps.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.runtimeconfig.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\bin\Debug\netcoreapp3.1\2.CharacterMultiplier.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\2.CharacterMultiplier\obj\Debug\netcoreapp3.1\2.CharacterMultiplier.genruntimeconfig.cache

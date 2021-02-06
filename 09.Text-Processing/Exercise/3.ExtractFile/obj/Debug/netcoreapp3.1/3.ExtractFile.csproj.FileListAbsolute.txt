@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\bin\Debug\netcoreapp3.1\3.ExtractFile.exe
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\bin\Debug\netcoreapp3.1\3.ExtractFile.deps.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\bin\Debug\netcoreapp3.1\3.ExtractFile.runtimeconfig.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\bin\Debug\netcoreapp3.1\3.ExtractFile.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\bin\Debug\netcoreapp3.1\3.ExtractFile.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\bin\Debug\netcoreapp3.1\3.ExtractFile.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\obj\Debug\netcoreapp3.1\3.ExtractFile.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\obj\Debug\netcoreapp3.1\3.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\obj\Debug\netcoreapp3.1\3.ExtractFile.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\obj\Debug\netcoreapp3.1\3.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\obj\Debug\netcoreapp3.1\3.ExtractFile.dll
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\obj\Debug\netcoreapp3.1\3.ExtractFile.pdb
+C:\Users\KRISI\source\repos\Strings-And-Text-Processing-Exercise\3.ExtractFile\obj\Debug\netcoreapp3.1\3.ExtractFile.genruntimeconfig.cache
