@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\bin\Debug\netcoreapp3.1\2.Ascii-Sumator.exe
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\bin\Debug\netcoreapp3.1\2.Ascii-Sumator.deps.json
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\bin\Debug\netcoreapp3.1\2.Ascii-Sumator.runtimeconfig.json
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\bin\Debug\netcoreapp3.1\2.Ascii-Sumator.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\bin\Debug\netcoreapp3.1\2.Ascii-Sumator.dll
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\bin\Debug\netcoreapp3.1\2.Ascii-Sumator.pdb
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\obj\Debug\netcoreapp3.1\2.Ascii-Sumator.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\obj\Debug\netcoreapp3.1\2.Ascii-Sumator.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\obj\Debug\netcoreapp3.1\2.Ascii-Sumator.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\obj\Debug\netcoreapp3.1\2.Ascii-Sumator.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\obj\Debug\netcoreapp3.1\2.Ascii-Sumator.dll
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\obj\Debug\netcoreapp3.1\2.Ascii-Sumator.pdb
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\2.Ascii-Sumator\obj\Debug\netcoreapp3.1\2.Ascii-Sumator.genruntimeconfig.cache

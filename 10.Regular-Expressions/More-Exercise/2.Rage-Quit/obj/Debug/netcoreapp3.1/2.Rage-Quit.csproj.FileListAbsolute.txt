@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\bin\Debug\netcoreapp3.1\2.Rage-Quit.exe
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\bin\Debug\netcoreapp3.1\2.Rage-Quit.deps.json
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\bin\Debug\netcoreapp3.1\2.Rage-Quit.runtimeconfig.json
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\bin\Debug\netcoreapp3.1\2.Rage-Quit.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\bin\Debug\netcoreapp3.1\2.Rage-Quit.dll
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\bin\Debug\netcoreapp3.1\2.Rage-Quit.pdb
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\obj\Debug\netcoreapp3.1\2.Rage-Quit.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\obj\Debug\netcoreapp3.1\2.Rage-Quit.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\obj\Debug\netcoreapp3.1\2.Rage-Quit.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\obj\Debug\netcoreapp3.1\2.Rage-Quit.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\obj\Debug\netcoreapp3.1\2.Rage-Quit.dll
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\obj\Debug\netcoreapp3.1\2.Rage-Quit.pdb
+C:\Users\KRISI\source\repos\Regular-Expressions-More-Exercise\2.Rage-Quit\obj\Debug\netcoreapp3.1\2.Rage-Quit.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\bin\Debug\netcoreapp3.1\5.HTML.exe
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\bin\Debug\netcoreapp3.1\5.HTML.deps.json
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\bin\Debug\netcoreapp3.1\5.HTML.runtimeconfig.json
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\bin\Debug\netcoreapp3.1\5.HTML.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\bin\Debug\netcoreapp3.1\5.HTML.dll
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\bin\Debug\netcoreapp3.1\5.HTML.pdb
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\obj\Debug\netcoreapp3.1\5.HTML.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\obj\Debug\netcoreapp3.1\5.HTML.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\obj\Debug\netcoreapp3.1\5.HTML.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\obj\Debug\netcoreapp3.1\5.HTML.dll
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\obj\Debug\netcoreapp3.1\5.HTML.pdb
+C:\Users\KRISI\source\repos\Strings-and-Text-Processing-More-Exercises\5.HTML\obj\Debug\netcoreapp3.1\5.HTML.genruntimeconfig.cache
