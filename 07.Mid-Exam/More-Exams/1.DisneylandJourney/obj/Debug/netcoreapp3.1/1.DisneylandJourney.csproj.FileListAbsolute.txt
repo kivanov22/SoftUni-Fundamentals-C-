@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\bin\Debug\netcoreapp3.1\1.DisneylandJourney.exe
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\bin\Debug\netcoreapp3.1\1.DisneylandJourney.deps.json
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\bin\Debug\netcoreapp3.1\1.DisneylandJourney.runtimeconfig.json
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\bin\Debug\netcoreapp3.1\1.DisneylandJourney.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\bin\Debug\netcoreapp3.1\1.DisneylandJourney.dll
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\bin\Debug\netcoreapp3.1\1.DisneylandJourney.pdb
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\obj\Debug\netcoreapp3.1\1.DisneylandJourney.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\obj\Debug\netcoreapp3.1\1.DisneylandJourney.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\obj\Debug\netcoreapp3.1\1.DisneylandJourney.AssemblyInfo.cs
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\obj\Debug\netcoreapp3.1\1.DisneylandJourney.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\obj\Debug\netcoreapp3.1\1.DisneylandJourney.dll
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\obj\Debug\netcoreapp3.1\1.DisneylandJourney.pdb
+C:\Users\HOME\source\repos\MidExamSecondPart\1.DisneylandJourney\obj\Debug\netcoreapp3.1\1.DisneylandJourney.genruntimeconfig.cache

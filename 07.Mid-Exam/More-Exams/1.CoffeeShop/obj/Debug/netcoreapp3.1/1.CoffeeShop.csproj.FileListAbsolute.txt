@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\bin\Debug\netcoreapp3.1\1.CoffeeShop.exe
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\bin\Debug\netcoreapp3.1\1.CoffeeShop.deps.json
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\bin\Debug\netcoreapp3.1\1.CoffeeShop.runtimeconfig.json
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\bin\Debug\netcoreapp3.1\1.CoffeeShop.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\bin\Debug\netcoreapp3.1\1.CoffeeShop.dll
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\bin\Debug\netcoreapp3.1\1.CoffeeShop.pdb
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\obj\Debug\netcoreapp3.1\1.CoffeeShop.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\obj\Debug\netcoreapp3.1\1.CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\obj\Debug\netcoreapp3.1\1.CoffeeShop.AssemblyInfo.cs
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\obj\Debug\netcoreapp3.1\1.CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\obj\Debug\netcoreapp3.1\1.CoffeeShop.dll
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\obj\Debug\netcoreapp3.1\1.CoffeeShop.pdb
+C:\Users\HOME\source\repos\MidExam-test\1.CoffeeShop\obj\Debug\netcoreapp3.1\1.CoffeeShop.genruntimeconfig.cache

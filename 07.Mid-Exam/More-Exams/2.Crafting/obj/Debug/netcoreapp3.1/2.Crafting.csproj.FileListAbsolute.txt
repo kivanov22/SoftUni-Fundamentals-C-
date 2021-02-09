@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\bin\Debug\netcoreapp3.1\2.Crafting.exe
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\bin\Debug\netcoreapp3.1\2.Crafting.deps.json
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\bin\Debug\netcoreapp3.1\2.Crafting.runtimeconfig.json
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\bin\Debug\netcoreapp3.1\2.Crafting.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\bin\Debug\netcoreapp3.1\2.Crafting.dll
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\bin\Debug\netcoreapp3.1\2.Crafting.pdb
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\obj\Debug\netcoreapp3.1\2.Crafting.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\obj\Debug\netcoreapp3.1\2.Crafting.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\obj\Debug\netcoreapp3.1\2.Crafting.AssemblyInfo.cs
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\obj\Debug\netcoreapp3.1\2.Crafting.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\obj\Debug\netcoreapp3.1\2.Crafting.dll
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\obj\Debug\netcoreapp3.1\2.Crafting.pdb
+C:\Users\HOME\source\repos\MidExam-test\2.Crafting\obj\Debug\netcoreapp3.1\2.Crafting.genruntimeconfig.cache

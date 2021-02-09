@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\bin\Debug\netcoreapp3.1\2.HelloFrance.exe
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\bin\Debug\netcoreapp3.1\2.HelloFrance.deps.json
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\bin\Debug\netcoreapp3.1\2.HelloFrance.runtimeconfig.json
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\bin\Debug\netcoreapp3.1\2.HelloFrance.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\bin\Debug\netcoreapp3.1\2.HelloFrance.dll
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\bin\Debug\netcoreapp3.1\2.HelloFrance.pdb
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\obj\Debug\netcoreapp3.1\2.HelloFrance.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\obj\Debug\netcoreapp3.1\2.HelloFrance.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\obj\Debug\netcoreapp3.1\2.HelloFrance.AssemblyInfo.cs
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\obj\Debug\netcoreapp3.1\2.HelloFrance.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\obj\Debug\netcoreapp3.1\2.HelloFrance.dll
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\obj\Debug\netcoreapp3.1\2.HelloFrance.pdb
+C:\Users\HOME\source\repos\MidExamSecondPart\2.HelloFrance\obj\Debug\netcoreapp3.1\2.HelloFrance.genruntimeconfig.cache

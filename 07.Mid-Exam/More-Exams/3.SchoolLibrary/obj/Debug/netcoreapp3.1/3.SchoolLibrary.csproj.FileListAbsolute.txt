@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\bin\Debug\netcoreapp3.1\3.SchoolLibrary.exe
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\bin\Debug\netcoreapp3.1\3.SchoolLibrary.deps.json
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\bin\Debug\netcoreapp3.1\3.SchoolLibrary.runtimeconfig.json
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\bin\Debug\netcoreapp3.1\3.SchoolLibrary.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\bin\Debug\netcoreapp3.1\3.SchoolLibrary.dll
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\bin\Debug\netcoreapp3.1\3.SchoolLibrary.pdb
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\obj\Debug\netcoreapp3.1\3.SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\obj\Debug\netcoreapp3.1\3.SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\obj\Debug\netcoreapp3.1\3.SchoolLibrary.AssemblyInfo.cs
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\obj\Debug\netcoreapp3.1\3.SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\obj\Debug\netcoreapp3.1\3.SchoolLibrary.dll
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\obj\Debug\netcoreapp3.1\3.SchoolLibrary.pdb
+C:\Users\HOME\source\repos\MidExamSecondPart\3.SchoolLibrary\obj\Debug\netcoreapp3.1\3.SchoolLibrary.genruntimeconfig.cache
