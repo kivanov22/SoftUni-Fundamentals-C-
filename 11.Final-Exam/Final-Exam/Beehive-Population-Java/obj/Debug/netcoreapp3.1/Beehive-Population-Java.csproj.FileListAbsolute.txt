@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\bin\Debug\netcoreapp3.1\Beehive-Population-Java.exe
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\bin\Debug\netcoreapp3.1\Beehive-Population-Java.deps.json
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\bin\Debug\netcoreapp3.1\Beehive-Population-Java.runtimeconfig.json
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\bin\Debug\netcoreapp3.1\Beehive-Population-Java.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\bin\Debug\netcoreapp3.1\Beehive-Population-Java.dll
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\bin\Debug\netcoreapp3.1\Beehive-Population-Java.pdb
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\obj\Debug\netcoreapp3.1\Beehive-Population-Java.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\obj\Debug\netcoreapp3.1\Beehive-Population-Java.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\obj\Debug\netcoreapp3.1\Beehive-Population-Java.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\obj\Debug\netcoreapp3.1\Beehive-Population-Java.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\obj\Debug\netcoreapp3.1\Beehive-Population-Java.dll
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\obj\Debug\netcoreapp3.1\Beehive-Population-Java.pdb
+C:\Users\HOME\source\repos\Exam\Beehive-Population-Java\obj\Debug\netcoreapp3.1\Beehive-Population-Java.genruntimeconfig.cache

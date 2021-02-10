@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.exe
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.deps.json
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.runtimeconfig.json
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.dll
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.pdb
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.dll
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.pdb
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves-Java-Solution\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves-Java-Solution.genruntimeconfig.cache

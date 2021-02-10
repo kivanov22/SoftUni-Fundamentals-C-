@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Exam\Beehive-Row\bin\Debug\netcoreapp3.1\Beehive-Row.exe
+C:\Users\HOME\source\repos\Exam\Beehive-Row\bin\Debug\netcoreapp3.1\Beehive-Row.deps.json
+C:\Users\HOME\source\repos\Exam\Beehive-Row\bin\Debug\netcoreapp3.1\Beehive-Row.runtimeconfig.json
+C:\Users\HOME\source\repos\Exam\Beehive-Row\bin\Debug\netcoreapp3.1\Beehive-Row.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Exam\Beehive-Row\bin\Debug\netcoreapp3.1\Beehive-Row.dll
+C:\Users\HOME\source\repos\Exam\Beehive-Row\bin\Debug\netcoreapp3.1\Beehive-Row.pdb
+C:\Users\HOME\source\repos\Exam\Beehive-Row\obj\Debug\netcoreapp3.1\Beehive-Row.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Exam\Beehive-Row\obj\Debug\netcoreapp3.1\Beehive-Row.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Exam\Beehive-Row\obj\Debug\netcoreapp3.1\Beehive-Row.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Exam\Beehive-Row\obj\Debug\netcoreapp3.1\Beehive-Row.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Exam\Beehive-Row\obj\Debug\netcoreapp3.1\Beehive-Row.dll
+C:\Users\HOME\source\repos\Exam\Beehive-Row\obj\Debug\netcoreapp3.1\Beehive-Row.pdb
+C:\Users\HOME\source\repos\Exam\Beehive-Row\obj\Debug\netcoreapp3.1\Beehive-Row.genruntimeconfig.cache

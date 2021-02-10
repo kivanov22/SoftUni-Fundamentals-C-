@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves.exe
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves.deps.json
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves.runtimeconfig.json
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves.dll
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\bin\Debug\netcoreapp3.1\Honey-Winter-Reserves.pdb
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves.dll
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves.pdb
+C:\Users\HOME\source\repos\Exam\Honey-Winter-Reserves\obj\Debug\netcoreapp3.1\Honey-Winter-Reserves.genruntimeconfig.cache

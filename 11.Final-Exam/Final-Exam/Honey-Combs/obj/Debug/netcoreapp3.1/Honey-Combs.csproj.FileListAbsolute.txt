@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Exam\Honey-Combs\bin\Debug\netcoreapp3.1\Honey-Combs.exe
+C:\Users\HOME\source\repos\Exam\Honey-Combs\bin\Debug\netcoreapp3.1\Honey-Combs.deps.json
+C:\Users\HOME\source\repos\Exam\Honey-Combs\bin\Debug\netcoreapp3.1\Honey-Combs.runtimeconfig.json
+C:\Users\HOME\source\repos\Exam\Honey-Combs\bin\Debug\netcoreapp3.1\Honey-Combs.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Exam\Honey-Combs\bin\Debug\netcoreapp3.1\Honey-Combs.dll
+C:\Users\HOME\source\repos\Exam\Honey-Combs\bin\Debug\netcoreapp3.1\Honey-Combs.pdb
+C:\Users\HOME\source\repos\Exam\Honey-Combs\obj\Debug\netcoreapp3.1\Honey-Combs.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Exam\Honey-Combs\obj\Debug\netcoreapp3.1\Honey-Combs.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Exam\Honey-Combs\obj\Debug\netcoreapp3.1\Honey-Combs.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Exam\Honey-Combs\obj\Debug\netcoreapp3.1\Honey-Combs.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Exam\Honey-Combs\obj\Debug\netcoreapp3.1\Honey-Combs.dll
+C:\Users\HOME\source\repos\Exam\Honey-Combs\obj\Debug\netcoreapp3.1\Honey-Combs.pdb
+C:\Users\HOME\source\repos\Exam\Honey-Combs\obj\Debug\netcoreapp3.1\Honey-Combs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\bin\Debug\netcoreapp3.1\Beehive-Defence-Java.exe
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\bin\Debug\netcoreapp3.1\Beehive-Defence-Java.deps.json
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\bin\Debug\netcoreapp3.1\Beehive-Defence-Java.runtimeconfig.json
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\bin\Debug\netcoreapp3.1\Beehive-Defence-Java.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\bin\Debug\netcoreapp3.1\Beehive-Defence-Java.dll
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\bin\Debug\netcoreapp3.1\Beehive-Defence-Java.pdb
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\obj\Debug\netcoreapp3.1\Beehive-Defence-Java.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\obj\Debug\netcoreapp3.1\Beehive-Defence-Java.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\obj\Debug\netcoreapp3.1\Beehive-Defence-Java.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\obj\Debug\netcoreapp3.1\Beehive-Defence-Java.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\obj\Debug\netcoreapp3.1\Beehive-Defence-Java.dll
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\obj\Debug\netcoreapp3.1\Beehive-Defence-Java.pdb
+C:\Users\HOME\source\repos\Exam\Beehive-Defence-Java\obj\Debug\netcoreapp3.1\Beehive-Defence-Java.genruntimeconfig.cache
