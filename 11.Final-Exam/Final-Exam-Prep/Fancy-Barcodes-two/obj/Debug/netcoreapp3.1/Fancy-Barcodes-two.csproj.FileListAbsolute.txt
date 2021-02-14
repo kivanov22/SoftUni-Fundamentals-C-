@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\bin\Debug\netcoreapp3.1\Fancy-Barcodes-two.exe
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\bin\Debug\netcoreapp3.1\Fancy-Barcodes-two.deps.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\bin\Debug\netcoreapp3.1\Fancy-Barcodes-two.runtimeconfig.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\bin\Debug\netcoreapp3.1\Fancy-Barcodes-two.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\bin\Debug\netcoreapp3.1\Fancy-Barcodes-two.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\bin\Debug\netcoreapp3.1\Fancy-Barcodes-two.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\obj\Debug\netcoreapp3.1\Fancy-Barcodes-two.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\obj\Debug\netcoreapp3.1\Fancy-Barcodes-two.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\obj\Debug\netcoreapp3.1\Fancy-Barcodes-two.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\obj\Debug\netcoreapp3.1\Fancy-Barcodes-two.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\obj\Debug\netcoreapp3.1\Fancy-Barcodes-two.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\obj\Debug\netcoreapp3.1\Fancy-Barcodes-two.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\Fancy-Barcodes-two\obj\Debug\netcoreapp3.1\Fancy-Barcodes-two.genruntimeconfig.cache

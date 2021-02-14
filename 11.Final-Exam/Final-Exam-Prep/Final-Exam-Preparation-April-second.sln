@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Password-Reset", "1.Password-Reset\1.Password-Reset.csproj", "{BFE438F3-A477-4A12-AD21-A59428A5E7F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Fancy-Barcodes", "2.Fancy-Barcodes\2.Fancy-Barcodes.csproj", "{BEEBD8BE-74D8-4BAE-B8CC-70C6EAE2BF19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Heroes-of-Code-and-Logic-VII", "3.Heroes-of-Code-and-Logic-VII\3.Heroes-of-Code-and-Logic-VII.csproj", "{3D6AF972-F62A-475F-A554-86DD6F13B7EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Heroes-of-Code-and-Logic-class", "3.Heroes-of-Code-and-Logic-class\3.Heroes-of-Code-and-Logic-class.csproj", "{65DD7275-01E1-400B-B2DC-A5388764801F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fancy-Barcodes-two", "Fancy-Barcodes-two\Fancy-Barcodes-two.csproj", "{C271B5D9-5E8C-491A-B824-CC11596352C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE438F3-A477-4A12-AD21-A59428A5E7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE438F3-A477-4A12-AD21-A59428A5E7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE438F3-A477-4A12-AD21-A59428A5E7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE438F3-A477-4A12-AD21-A59428A5E7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEBD8BE-74D8-4BAE-B8CC-70C6EAE2BF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEBD8BE-74D8-4BAE-B8CC-70C6EAE2BF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEBD8BE-74D8-4BAE-B8CC-70C6EAE2BF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEBD8BE-74D8-4BAE-B8CC-70C6EAE2BF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6AF972-F62A-475F-A554-86DD6F13B7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6AF972-F62A-475F-A554-86DD6F13B7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6AF972-F62A-475F-A554-86DD6F13B7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6AF972-F62A-475F-A554-86DD6F13B7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DD7275-01E1-400B-B2DC-A5388764801F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DD7275-01E1-400B-B2DC-A5388764801F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DD7275-01E1-400B-B2DC-A5388764801F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DD7275-01E1-400B-B2DC-A5388764801F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C271B5D9-5E8C-491A-B824-CC11596352C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C271B5D9-5E8C-491A-B824-CC11596352C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C271B5D9-5E8C-491A-B824-CC11596352C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C271B5D9-5E8C-491A-B824-CC11596352C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D0195C-0C86-4B04-B2C4-E37F3CDF959E}
+	EndGlobalSection
+EndGlobal

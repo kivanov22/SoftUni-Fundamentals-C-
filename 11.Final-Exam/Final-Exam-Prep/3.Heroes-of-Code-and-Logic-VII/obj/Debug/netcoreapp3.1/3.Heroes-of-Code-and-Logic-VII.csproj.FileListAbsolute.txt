@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\bin\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.exe
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\bin\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.deps.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\bin\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.runtimeconfig.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\bin\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\bin\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\bin\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\obj\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\obj\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\obj\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\obj\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\obj\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\obj\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April-second\3.Heroes-of-Code-and-Logic-VII\obj\Debug\netcoreapp3.1\3.Heroes-of-Code-and-Logic-VII.genruntimeconfig.cache
