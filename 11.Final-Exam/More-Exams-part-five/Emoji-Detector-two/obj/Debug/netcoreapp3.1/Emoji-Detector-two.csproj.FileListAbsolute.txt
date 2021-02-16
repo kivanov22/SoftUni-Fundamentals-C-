@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\bin\Debug\netcoreapp3.1\Emoji-Detector-two.exe
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\bin\Debug\netcoreapp3.1\Emoji-Detector-two.deps.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\bin\Debug\netcoreapp3.1\Emoji-Detector-two.runtimeconfig.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\bin\Debug\netcoreapp3.1\Emoji-Detector-two.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\bin\Debug\netcoreapp3.1\Emoji-Detector-two.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\bin\Debug\netcoreapp3.1\Emoji-Detector-two.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\obj\Debug\netcoreapp3.1\Emoji-Detector-two.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\obj\Debug\netcoreapp3.1\Emoji-Detector-two.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\obj\Debug\netcoreapp3.1\Emoji-Detector-two.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\obj\Debug\netcoreapp3.1\Emoji-Detector-two.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\obj\Debug\netcoreapp3.1\Emoji-Detector-two.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\obj\Debug\netcoreapp3.1\Emoji-Detector-two.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Emoji-Detector-two\obj\Debug\netcoreapp3.1\Emoji-Detector-two.genruntimeconfig.cache

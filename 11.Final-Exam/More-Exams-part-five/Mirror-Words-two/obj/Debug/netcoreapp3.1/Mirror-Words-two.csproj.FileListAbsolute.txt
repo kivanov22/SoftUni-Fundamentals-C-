@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\bin\Debug\netcoreapp3.1\Mirror-Words-two.exe
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\bin\Debug\netcoreapp3.1\Mirror-Words-two.deps.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\bin\Debug\netcoreapp3.1\Mirror-Words-two.runtimeconfig.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\bin\Debug\netcoreapp3.1\Mirror-Words-two.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\bin\Debug\netcoreapp3.1\Mirror-Words-two.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\bin\Debug\netcoreapp3.1\Mirror-Words-two.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\obj\Debug\netcoreapp3.1\Mirror-Words-two.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\obj\Debug\netcoreapp3.1\Mirror-Words-two.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\obj\Debug\netcoreapp3.1\Mirror-Words-two.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\obj\Debug\netcoreapp3.1\Mirror-Words-two.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\obj\Debug\netcoreapp3.1\Mirror-Words-two.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\obj\Debug\netcoreapp3.1\Mirror-Words-two.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\Mirror-Words-two\obj\Debug\netcoreapp3.1\Mirror-Words-two.genruntimeconfig.cache

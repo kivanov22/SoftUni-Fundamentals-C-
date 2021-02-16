@@ -1,0 +1,12 @@
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\bin\Debug\netcoreapp3.1\cehahsw.exe
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\bin\Debug\netcoreapp3.1\cehahsw.deps.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\bin\Debug\netcoreapp3.1\cehahsw.runtimeconfig.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\bin\Debug\netcoreapp3.1\cehahsw.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\bin\Debug\netcoreapp3.1\cehahsw.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\bin\Debug\netcoreapp3.1\cehahsw.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\obj\Debug\netcoreapp3.1\cehahsw.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\obj\Debug\netcoreapp3.1\cehahsw.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\obj\Debug\netcoreapp3.1\cehahsw.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\obj\Debug\netcoreapp3.1\cehahsw.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\obj\Debug\netcoreapp3.1\cehahsw.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\cehahsw\obj\Debug\netcoreapp3.1\cehahsw.genruntimeconfig.cache

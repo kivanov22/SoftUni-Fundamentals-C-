@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\bin\Debug\netcoreapp3.1\2.Emoji-Detector.exe
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\bin\Debug\netcoreapp3.1\2.Emoji-Detector.deps.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\bin\Debug\netcoreapp3.1\2.Emoji-Detector.runtimeconfig.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\bin\Debug\netcoreapp3.1\2.Emoji-Detector.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\bin\Debug\netcoreapp3.1\2.Emoji-Detector.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\bin\Debug\netcoreapp3.1\2.Emoji-Detector.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\obj\Debug\netcoreapp3.1\2.Emoji-Detector.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\obj\Debug\netcoreapp3.1\2.Emoji-Detector.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\obj\Debug\netcoreapp3.1\2.Emoji-Detector.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\obj\Debug\netcoreapp3.1\2.Emoji-Detector.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\obj\Debug\netcoreapp3.1\2.Emoji-Detector.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\obj\Debug\netcoreapp3.1\2.Emoji-Detector.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\2.Emoji-Detector\obj\Debug\netcoreapp3.1\2.Emoji-Detector.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\bin\Debug\netcoreapp3.1\3.P1rat3s-second.exe
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\bin\Debug\netcoreapp3.1\3.P1rat3s-second.deps.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\bin\Debug\netcoreapp3.1\3.P1rat3s-second.runtimeconfig.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\bin\Debug\netcoreapp3.1\3.P1rat3s-second.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\bin\Debug\netcoreapp3.1\3.P1rat3s-second.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\bin\Debug\netcoreapp3.1\3.P1rat3s-second.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\obj\Debug\netcoreapp3.1\3.P1rat3s-second.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\obj\Debug\netcoreapp3.1\3.P1rat3s-second.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\obj\Debug\netcoreapp3.1\3.P1rat3s-second.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\obj\Debug\netcoreapp3.1\3.P1rat3s-second.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\obj\Debug\netcoreapp3.1\3.P1rat3s-second.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\obj\Debug\netcoreapp3.1\3.P1rat3s-second.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\3.P1rat3s-second\obj\Debug\netcoreapp3.1\3.P1rat3s-second.genruntimeconfig.cache

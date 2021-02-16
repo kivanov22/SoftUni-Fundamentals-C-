@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\obj\Debug\netcoreapp3.1\1.Activation-Keys.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\obj\Debug\netcoreapp3.1\1.Activation-Keys.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\obj\Debug\netcoreapp3.1\1.Activation-Keys.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\obj\Debug\netcoreapp3.1\1.Activation-Keys.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\bin\Debug\netcoreapp3.1\1.Activation-Keys.exe
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\bin\Debug\netcoreapp3.1\1.Activation-Keys.deps.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\bin\Debug\netcoreapp3.1\1.Activation-Keys.runtimeconfig.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\bin\Debug\netcoreapp3.1\1.Activation-Keys.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\bin\Debug\netcoreapp3.1\1.Activation-Keys.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\bin\Debug\netcoreapp3.1\1.Activation-Keys.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\obj\Debug\netcoreapp3.1\1.Activation-Keys.dll
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\obj\Debug\netcoreapp3.1\1.Activation-Keys.pdb
+C:\Users\KRISI\source\repos\Final-Exam-Preparation-April\1.Activation-Keys\obj\Debug\netcoreapp3.1\1.Activation-Keys.genruntimeconfig.cache
