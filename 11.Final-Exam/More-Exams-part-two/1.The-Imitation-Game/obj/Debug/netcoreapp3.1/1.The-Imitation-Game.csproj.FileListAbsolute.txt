@@ -1,0 +1,13 @@
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\bin\Debug\netcoreapp3.1\1.The-Imitation-Game.exe
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\bin\Debug\netcoreapp3.1\1.The-Imitation-Game.deps.json
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\bin\Debug\netcoreapp3.1\1.The-Imitation-Game.runtimeconfig.json
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\bin\Debug\netcoreapp3.1\1.The-Imitation-Game.runtimeconfig.dev.json
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\bin\Debug\netcoreapp3.1\1.The-Imitation-Game.dll
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\bin\Debug\netcoreapp3.1\1.The-Imitation-Game.pdb
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\obj\Debug\netcoreapp3.1\1.The-Imitation-Game.csprojAssemblyReference.cache
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\obj\Debug\netcoreapp3.1\1.The-Imitation-Game.AssemblyInfoInputs.cache
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\obj\Debug\netcoreapp3.1\1.The-Imitation-Game.AssemblyInfo.cs
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\obj\Debug\netcoreapp3.1\1.The-Imitation-Game.csproj.CoreCompileInputs.cache
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\obj\Debug\netcoreapp3.1\1.The-Imitation-Game.dll
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\obj\Debug\netcoreapp3.1\1.The-Imitation-Game.pdb
+C:\Users\KRISI\source\repos\Fundamentals-Final-Exam-Retake-15-August-2020\1.The-Imitation-Game\obj\Debug\netcoreapp3.1\1.The-Imitation-Game.genruntimeconfig.cache
